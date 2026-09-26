@@ -2,8 +2,6 @@
 
 This is a clone of the Airbnb web application built using MERN stack. It is a full-stack web application that allows users to book accommodations in various locations. This application supports user registration, login and authentication.
 
-![app](https://github.com/harrismalik98/Airbnb-Clone/assets/113388505/e91c2400-e895-462e-b742-489e848cc9a6)
-
 ## Installation
 
 To install and run the application, please follow these steps:
@@ -53,6 +51,4 @@ This project uses the following dependencies:
 - React - JavaScript library used to build the client-side of the application.
 - Node.js - JavaScript runtime used to execute server-side code.
 - Mongoose - Object Data Modeling (ODM) library used to interface with MongoDB.
-- React Router - Declarative routing library for React applications.
-- Axios - Promise based HTTP client for making API requests from the client-side.
 - Tailwind CSS - Used for styling the application.
