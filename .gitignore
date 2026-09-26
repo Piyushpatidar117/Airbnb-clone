@@ -6,5 +6,6 @@
 
 # Ignore environment files
 /server/.env
-/client/.env
+/client/.env 
+.env
 
